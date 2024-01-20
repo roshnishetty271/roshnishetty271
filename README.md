@@ -1,5 +1,9 @@
-I am pursuing Masters in Computer Science from SUNY Binghamton and completed my Bachelors in Computer Engineering and have an experience of working as a Software Engineer for almost 3 years.
-Skilled in HTML, CSS, JavaScript, Java, Oracle SQL, C, C++ and python.
+👋 Hello World! I'm Roshni Shetty, a passionate software engineer on a journey to explore the realms of technology and innovation. My expertise lies in designing and developing robust software solutions that address real-world challenges.
 
-I am passionate about my field and always keen in learning new things, hence I am seeking job opportunities so that I can utilize my capabilities and the experience 
-that I have gained from various projects to grow professionally and in the process contribute to the organization.
+🚀 Currently, I'm diving deep into the world of web development, where I thrive on creating elegant and efficient solutions. My toolkit includes languages like Python, HTML, CSS JavaScript, C, C++ and Java.
+
+💡 I'm a lifelong learner, always eager to stay ahead in the ever-evolving tech landscape. Whether it's experimenting with the latest programming paradigms or contributing to open-source projects, I love pushing the boundaries of what's possible.
+
+🎓Pursuing masters in Computer Science from SUNY Binghamton, I bring a solid foundation in algorithms, data structures, and problem-solving to every project. My experience spans for almost 3 years, where I've honed my skills in software development.
+
+🌐 When not coding, you can find me exploring the latest tech trends, sharing knowledge, and collaborating with the global tech community on GitHub. Let's connect and build something amazing together! 🌟
