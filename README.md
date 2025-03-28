@@ -1,6 +1,6 @@
 👋 Hello World! I'm Roshni Shetty, a passionate software engineer on a journey to explore the realms of technology and innovation. My expertise lies in designing and developing robust software solutions that address real-world challenges.
 
-🚀 Currently, I'm diving deep into the world of software development, where I thrive on creating elegant and efficient solutions. My toolkit includes languages like Python, HTML, CSS JavaScript, C, C++, Java and SQL.
+🚀 Currently, I'm diving deep into the world of software development, where I thrive on creating elegant and efficient solutions. My toolkit includes languages like Python, HTML, CSS, JavaScript, React, C, C++, Java and SQL.
 
 💡 I'm a lifelong learner, always eager to stay ahead in the ever-evolving tech landscape. Whether it's experimenting with the latest programming paradigms or contributing to open-source projects, I love pushing the boundaries of what's possible.
 
